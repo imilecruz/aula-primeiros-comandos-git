@@ -1,0 +1,29 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.conteiner-header{
+	background-color: #FFC0CB;
+	display: flex;
+}
+.header-figure{
+	width: 100px;
+	height: 100px;
+	margin: 30px;
+}
+.menu-lista{
+	display: flex;
+	list-style: none;
+}
+.item-da-lista{
+	margin-left: 70px;
+}
+.menu-botão{
+	margin-left: 0px;
+	width: 90px;
+	height: 50px;
+	font-size: 20px;
+
+
+}
